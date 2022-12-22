@@ -1,0 +1,79 @@
+###
+GET https://localhost:7277/categories
+
+###
+GET https://localhost:7277/categories/Computers/products
+
+###
+GET https://localhost:7277/categories/122
+
+###
+POST https://localhost:7277/categories
+Content-Type: application/json
+
+{
+  "name": "Phones"
+}
+
+###
+POST https://localhost:7277/categories
+Content-Type: application/json
+
+{
+  "name": "Computers"
+}
+
+###
+POST https://localhost:7277/categories
+Content-Type: application/json
+
+{
+  "name": "Printers"
+}
+
+###
+DELETE https://localhost:7277/categories/11
+
+###
+DELETE https://localhost:7277/categories/12
+
+
+
+###
+GET https://localhost:7277/products
+
+###
+GET https://localhost:7277/products/9
+
+###
+POST https://localhost:7277/products
+Content-Type: application/json
+
+{
+  "designation": "MacBook Pro 2020",
+  "price": 15000,
+  "categoryName":"Computers"
+}
+
+###
+POST https://localhost:7277/products
+Content-Type: application/json
+
+{
+  "designation": "MacBook Pro 2016",
+  "price": 12000,
+  "categoryName":"Computers"
+}
+
+###
+DELETE https://localhost:7277/Products/8
+
+###
+DELETE https://localhost:7277/Products/9
+
+
+###
+GET https://localhost:7277/products/find/Mac
+
+###
+GET https://localhost:7277/products/find/2016

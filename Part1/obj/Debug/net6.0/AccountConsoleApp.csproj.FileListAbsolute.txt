@@ -1,0 +1,15 @@
+/Users/meriam/Desktop/AccountConsoleApp/bin/Debug/net6.0/AccountConsoleApp
+/Users/meriam/Desktop/AccountConsoleApp/bin/Debug/net6.0/AccountConsoleApp.deps.json
+/Users/meriam/Desktop/AccountConsoleApp/bin/Debug/net6.0/AccountConsoleApp.runtimeconfig.json
+/Users/meriam/Desktop/AccountConsoleApp/bin/Debug/net6.0/AccountConsoleApp.dll
+/Users/meriam/Desktop/AccountConsoleApp/bin/Debug/net6.0/AccountConsoleApp.pdb
+/Users/meriam/Desktop/AccountConsoleApp/obj/Debug/net6.0/AccountConsoleApp.csproj.AssemblyReference.cache
+/Users/meriam/Desktop/AccountConsoleApp/obj/Debug/net6.0/AccountConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meriam/Desktop/AccountConsoleApp/obj/Debug/net6.0/AccountConsoleApp.AssemblyInfoInputs.cache
+/Users/meriam/Desktop/AccountConsoleApp/obj/Debug/net6.0/AccountConsoleApp.AssemblyInfo.cs
+/Users/meriam/Desktop/AccountConsoleApp/obj/Debug/net6.0/AccountConsoleApp.csproj.CoreCompileInputs.cache
+/Users/meriam/Desktop/AccountConsoleApp/obj/Debug/net6.0/AccountConsoleApp.dll
+/Users/meriam/Desktop/AccountConsoleApp/obj/Debug/net6.0/refint/AccountConsoleApp.dll
+/Users/meriam/Desktop/AccountConsoleApp/obj/Debug/net6.0/AccountConsoleApp.pdb
+/Users/meriam/Desktop/AccountConsoleApp/obj/Debug/net6.0/AccountConsoleApp.genruntimeconfig.cache
+/Users/meriam/Desktop/AccountConsoleApp/obj/Debug/net6.0/ref/AccountConsoleApp.dll
